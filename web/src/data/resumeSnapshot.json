@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "title": "Resume 简历",
+    "entries": [
+      {
+        "period": "2021.09–2024.10",
+        "place": "马来西亚国立大学（QS130）",
+        "role": "本科（工商管理专业）",
+        "points": [
+          "主修课程：营销管理、经济与商业数学、商业统计、组织行为、国际商务、商务沟通、运营管理。"
+        ]
+      },
+      {
+        "period": "2023.12–2024.06",
+        "place": "Zuspresso (M) Sdn. Bhd.",
+        "role": "海外新媒体运营实习生",
+        "points": [
+          "新品市场调研：围绕ZUS Coffee新品收集用户偏好与社媒反馈，对比竞品内容，归纳卖点和消费场景，协助确定新品推广主题及内容方向。",
+          "品牌宣传：围绕新品主题协助发布50条Instagram内容，参与拍摄、剪辑、英文文案、hashtag及素材整理。",
+          "渠道联动与营销复盘：协助衔接新品线上首发和FamilyMart线下宣传，整理推广素材、门店信息与渠道发布排期；按周追踪传播数据，累计完成15+次复盘并调整内容重点，协同带动账号粉丝增长1.1w+。"
+        ]
+      },
+      {
+        "period": "2024.10–2025.05",
+        "place": "北京领知宏华智能科技有限公司",
+        "role": "市场营销实习生",
+        "points": [
+          "市场推广：围绕高校教学需求参与组织产品宣讲和体验活动，联动产品、业务团队准备演示材料、教师案例及FAQ，跟进流程安排和现场答疑；整理活动反馈，提出10条产品优化建议，支持后续高校试点及市场推广。",
+          "市场调研：收集海内外高校教学、备课、自学场景的需求，分类整理100+条社群反馈，识别应用场景与使用障碍；提炼客户关注点，为宣传主题选择及推广活动调整提供参考。",
+          "产品物料与推广：从0到1搭建产品公众号，输出30+篇使用指南、功能教程及场景案例，将产品功能转化为场景卖点；整理可复用介绍材料与FAQ，期间核心功能使用率提升30%。",
+          "外部合作：参与东南亚AI教育产品合作，协助明确双方需求与分工，跟进协议签署及交接。"
+        ]
+      },
+      {
+        "period": "2025.08–至今（2027.02毕业）",
+        "place": "悉尼大学（QS28）",
+        "role": "硕士（市场营销专业）",
+        "points": [
+          "主修课程：营销分析、消费者行为、市场研究、客户分析与CRM、B2B营销、新产品营销。"
+        ]
+      },
+      {
+        "period": "2025.12–2026.02",
+        "place": "北京搜狐新媒体信息有限公司",
+        "role": "AI 产品运营实习生",
+        "points": [
+          "市场调研与推广策划：结合价格问卷及需求反馈梳理目标客群，分析同类产品的传播卖点与推广方式，参与制定分层触达计划；协助策划线上拉新活动，准备科技活动宣传材料、产品演示及现场推广，支持推广计划落地。",
+          "AI分析：借助AI制作营销看板，对比渠道触达与转化表现，识别流失环节，支持推广复盘。",
+          "产品传播：围绕产品卖点和应用场景制作100+条公众号、小红书及社群内容，运用AI辅助选题与文案创意；整理产品介绍、案例及FAQ，按渠道适配传播素材，协助筛选博主并跟进投放，校对文案与视觉，保持品牌表达一致。",
+          "渠道推广与效果评估：配合小红书、公众号及社群投放，结合A/B测试结果调整内容和渠道预算，跟踪活动期间获客与使用表现；新增注册较前一周提升50%，首次专题创建率相对提升约15%。"
+        ]
+      }
+    ],
+    "skillsTitle": "综合评价",
+    "skills": [
+      "个人标签：市场营销硕士在读，2027届毕业，英语可作工作语言；具备食品饮料新品传播、市场调研、渠道推广与营销活动执行经验。",
+      "营销能力：需求调研、卖点提炼、产品推广、品牌传播、活动执行、渠道协作与效果复盘。",
+      "AI工具：运用AI辅助搭建营销看板、制作推广文案与内容创意、分析数据，梳理SOP、检查清单及常用模板。",
+      "数据分析：Excel、SPSS、SQL（基础），具备渠道测试、推广效果跟踪与活动复盘经验。",
+      "内容工具：小红书、Instagram、公众号、Canva、剪映、Figma（基础）。",
+      "协作执行：跨部门沟通、推广物料准备、活动流程安排与现场答疑；使用飞书、钉钉、Linear跟进任务。"
+    ]
+  },
+  "en": {
+    "title": "Resume",
+    "entries": [
+      {
+        "period": "2021.09–2024.10",
+        "place": "Universiti Kebangsaan Malaysia (QS130)",
+        "role": "Bachelor of Business Administration",
+        "points": [
+          "Coursework: Marketing Management, Economics and Business Mathematics, Business Statistics, Organizational Behaviour, International Business, Business Communication, Operations Management."
+        ]
+      },
+      {
+        "period": "2023.12–2024.06",
+        "place": "Zuspresso (M) Sdn. Bhd.",
+        "role": "Overseas Social Media Operations Intern",
+        "points": [
+          "New-product market research: Collected ZUS Coffee user preferences and social feedback, compared competitor content, and summarized messages and consumption occasions for promotion themes.",
+          "Brand promotion: Supported 50 Instagram posts with shooting, editing, English copy, hashtags and asset organization around new-product themes.",
+          "Channel coordination and review: Supported online launches and FamilyMart communication through assets, store information and schedules. Tracked data weekly and completed 15+ reviews; contributed to 11k+ account follower growth."
+        ]
+      },
+      {
+        "period": "2024.10–2025.05",
+        "place": "Beijing Lingzhi Honghua Intelligent Technology Co., Ltd.",
+        "role": "Marketing Intern",
+        "points": [
+          "University promotion: Supported demonstrations and trial events with product and business teams, prepared demos, teaching cases and FAQs, coordinated event flow and questions, and submitted 10 product improvement suggestions for subsequent university pilots.",
+          "Market research: Classified 100+ feedback items across teaching, lesson preparation and self-study to identify customer priorities, application scenarios and usage barriers for communication and campaign adjustments.",
+          "Product materials: Built a WeChat account from scratch and published 30+ guides, tutorials and use cases. Translated features into scenario-based messages and reusable materials; core-feature usage rose 30% during the period.",
+          "External cooperation: Supported Southeast Asia AI education cooperation, clarified needs and responsibilities, and followed agreement signing and handoff."
+        ]
+      },
+      {
+        "period": "2025.08–Present (Graduating Feb 2027)",
+        "place": "University of Sydney (QS28)",
+        "role": "Master of Marketing",
+        "points": [
+          "Coursework: Marketing Analytics, Consumer Behaviour, Marketing Research, Customer Analytics and CRM, B2B Marketing, New Product Marketing."
+        ]
+      },
+      {
+        "period": "2025.12–2026.02",
+        "place": "Beijing Sohu New Media",
+        "role": "AI Product Operations Intern",
+        "points": [
+          "Market research and promotion planning: Used pricing surveys, needs feedback and comparable-product promotion to identify target users and support segmented outreach, online acquisition and technology-event preparation and execution.",
+          "AI analysis: Created an AI-assisted marketing dashboard to compare channel reach and conversion, identify drop-off points and support promotion reviews.",
+          "Product communication: Produced 100+ WeChat, Xiaohongshu and community posts with AI-assisted ideas and copy. Organized product messages, use cases and FAQs, adapted channel assets and supported creator screening, launch tracking and brand consistency.",
+          "Channel evaluation: Used A/B tests to adjust content and channel budgets and tracked acquisition and usage. Registrations rose 50% versus the prior week; first-topic creation rate rose approximately 15% relatively."
+        ]
+      }
+    ],
+    "skillsTitle": "Marketing & Tools",
+    "skills": [
+      "Marketing postgraduate, graduating in 2027; working English and experience in food-and-beverage launch communication, research, channels and campaign execution.",
+      "Marketing: needs research, product messaging, product promotion, brand communication, campaign execution, channel coordination and reviews.",
+      "AI: marketing dashboards, copy and content ideas, data analysis, SOPs, checklists and reusable templates.",
+      "Data: Excel, SPSS, SQL (basic); channel tests, campaign tracking and reviews.",
+      "Content: Xiaohongshu, Instagram, WeChat, Canva, CapCut, Figma (basic).",
+      "Execution: cross-team communication, promotional materials, event flow and questions; Feishu, DingTalk and Linear."
+    ]
+  },
+  "application": {
+    "name": "李世怡",
+    "company": "益海嘉里",
+    "role": "总部营销储备（食品工业）",
+    "location": "上海",
+    "website": "https://lishiyi-aia.github.io/market-trainee-yihai-kerry/",
+    "source": "用户2026年10月15日4:22更新的简历截图"
+  }
+}
