@@ -70,7 +70,7 @@ export const WORKS: Record<WorkLanguage, WorksLang> = {
               "调研策划：价格与需求反馈，形成分层推广计划",
               "产品传播：100+条内容，AI选题文案与渠道物料",
               "推广执行：拉新、科技活动、达人及A/B测试",
-              "效果复盘：注册较前周+50%，首次专题创建率相对+15%"
+              "效果复盘：注册较前周+50%，首次专题创建率相对约+15%"
             ]
           }
         ]
@@ -144,7 +144,7 @@ export const WORKS: Record<WorkLanguage, WorksLang> = {
               "Research: pricing and needs feedback informed segmented outreach",
               "Communication: 100+ posts, AI-assisted copy and channel assets",
               "Execution: acquisition, technology events, creators and A/B tests",
-              "Review: registrations +50% versus prior week; first-topic rate +15% relatively"
+              "Review: registrations +50% versus prior week; first-topic rate approximately +15% relatively"
             ]
           }
         ]
