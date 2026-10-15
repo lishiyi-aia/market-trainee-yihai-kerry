@@ -25,23 +25,21 @@ type Lang = 'en' | 'zh'
 
 const COPY = {
   en: {
-    title: 'Yihai Kerry Application',
-    role: 'Headquarters Marketing Trainee · Food Industry',
+    title: 'About Shiyi',
     paragraphs: [
-      "Shiyi Li · Master of Marketing candidate, class of 2027. My three cases connect market research with product messaging, campaign execution and channel coordination, then use performance reviews and AI-assisted workflows to improve the next round of promotion.",
+      "Shiyi Li · Applying to Yihai Kerry for the Headquarters Marketing Trainee (Food Industry) role. Master of Marketing candidate, class of 2027, with experience in market research, product promotion, campaigns and channel coordination. I use AI-assisted content and dashboards to turn feedback into the next round of promotion.",
     ],
   },
   zh: {
-    title: '应聘益海嘉里',
-    role: '总部营销储备（食品工业）',
+    title: 'About Shiyi',
     paragraphs: [
-      '李世怡｜2027届市场营销硕士，英语可作工作语言。三个项目对应市场调研、产品传播、活动执行与渠道协作，通过效果复盘和AI制作看板、文案及常用模板，把反馈带回下一轮推广。',
+      '李世怡｜应聘益海嘉里总部营销储备（食品工业）。2027届市场营销硕士，英语可作工作语言。具备市场调研、产品推广、活动执行与渠道协作经验，借助AI制作内容和营销看板，将反馈带回下一轮推广。',
     ],
   },
 }
 
 function Hero({ lang, cueOpacity }: { lang: Lang; cueOpacity: MotionValue<number> }) {
-  const { title, role, paragraphs } = COPY[lang]
+  const { title, paragraphs } = COPY[lang]
   const aboutRef = useRef(null)
   // 首屏从清晰状态开始，随页面滚动淡出；与文案高度无关。
   const { scrollY } = useScroll()
@@ -71,7 +69,6 @@ function Hero({ lang, cueOpacity }: { lang: Lang; cueOpacity: MotionValue<number
           <motion.h1 className="about-title" style={{ y: titleY, letterSpacing: titleSpacing }}>
             {title}
           </motion.h1>
-          <motion.p className="application-role" style={{ y: bodyY }}>{role}</motion.p>
           {paragraphs.map((p, i) => (
             <motion.p key={i} className="about-body" style={{ y: bodyY }}>
               {p}
@@ -185,8 +182,8 @@ export default function App() {
           <span>MARKET RESEARCH · PRODUCT PROMOTION · CHANNEL COORDINATION</span>
         </div>
         <div className="hero-meta hm-tr">2026</div>
-        <div className="hero-meta hm-bl">Yihai Kerry · Food Industry · Marketing Trainee</div>
-        <div className="hero-meta hm-right">益海嘉里 · 总部营销储备（食品工业）</div>
+        <div className="hero-meta hm-bl">Campaign Planning · Channel Review · AI-assisted Marketing</div>
+        <div className="hero-meta hm-right">Headquarters Marketing Trainee</div>
       </motion.div>
 
       {/* 全屏胶片噪点蒙层（multiply 混合） */}

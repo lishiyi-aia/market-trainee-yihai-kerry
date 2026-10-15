@@ -263,7 +263,6 @@ canvas {
 /* 入场动画放内层：其 fill:both 只锁内层 opacity，不影响外层滚动 opacity */
 .about-intro {
   animation: fadeDown 1.8s ease both;
-  text-shadow: 0 2px 10px rgba(8, 15, 11, 0.78);
 }
 
 .about-title {
@@ -304,23 +303,9 @@ canvas {
 .about[lang='zh'] .about-body {
   font-family: 'Chiron GoRound TC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: 400;
-  font-size: clamp(12px, 0.92vw, 13px);
+  font-size: clamp(8.8px, 0.92vw, 12.8px);
   line-height: 1.7;
   letter-spacing: 0.02em;
-}
-
-.about[lang='zh'] .about-title {
-  font-family: 'Chiron GoRound TC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: clamp(28px, 5.2vw, 66px);
-  font-weight: 500;
-  line-height: 1.15;
-}
-.application-role {
-  margin: 0 auto 0.65em;
-  font-family: 'Chiron GoRound TC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: clamp(14px, 1.8vw, 22px);
-  line-height: 1.5;
-  color: var(--ink);
 }
 
 /* ---------- 右上角中英切换 ---------- */
